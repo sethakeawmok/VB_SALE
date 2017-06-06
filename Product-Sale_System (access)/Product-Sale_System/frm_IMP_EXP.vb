@@ -30,12 +30,48 @@ Public Class frm_IMP_EXP
                 .Rows(row).Cells("unit_id").Value = myreader("unit_id")
                 .Rows(row).Cells("unit_name").Value = myreader("unit_name")
                 .Rows(row).Cells("DATE_CREATE").Value = myreader("DATE_CREATE")
-                convers_dt_TH(myreader("DATE_CREATE"))
+                
+                'Select Case Month(myreader("DATE_CREATE"))
+                '    '                when '1' then ' มกราคม '
+                '    'when '2' then ' กุมภาพันธ์ '
+                '    'when '3' then ' มีนาคม '
+                '    'when '4' then ' เมษายน '
+                '    'when '5' then ' พฤษภาคม '
+                '    'when '6' then ' มิถุนายน '
+                '    'when '7' then ' กรกฎาคม '
+                '    'when '8' then ' สิงหาคม '
+                '    'when '9' then ' กันยายน ' 
+                '    'when '10' then ' ตุลาคม '
+                '    'when '11' then ' พฤศจิกายน '
+                '    'when '12' then ' ธันวาคม '
+                '    Case "1"
+                '        Console.WriteLine("Excellent!")
+                '    Case "B", "C"
+                '        Console.WriteLine("Well done")
+                '    Case "D"
+                '        Console.WriteLine("You passed")
+                '    Case "F"
+                '        Console.WriteLine("Better try again")
+                '    Case Else
+                '        Console.WriteLine("Invalid grade")
+                'End Select
+                'convers_dt_TH(myreader("DATE_CREATE"))
                 .Rows(row).Cells("pd_picture").Value = myreader("pd_picture")
             End With
             row += 1
-
         End While
+        conn.Close()
+
+
+        conn.Open()
+        strSQl = "SELECT DATE_CREATE FROM T_products ORDER BY DATE_CREATE DESC"
+        mycmd = New OleDbCommand(strSQl, conn)
+        myreader = mycmd.ExecuteReader
+        myreader.Read()
+
+        dtp_Start.MaxDate = "4/6/2560 20:39:51"
+        dtp_Start.MaxDate = myreader("DATE_CREATE") + " 23:59:59"
+        dtp_End.MaxDate = myreader("DATE_CREATE")
         conn.Close()
        
     End Sub
