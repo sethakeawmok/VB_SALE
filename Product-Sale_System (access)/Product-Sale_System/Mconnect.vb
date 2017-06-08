@@ -8,8 +8,8 @@ Module Mconnect
     Public myreader As OleDbDataReader
     Public strSQl As String
 
-    Dim ct_en As CultureInfo = New System.Globalization.CultureInfo("en-US")
-    Dim ct_th As CultureInfo = New System.Globalization.CultureInfo("th-TH")
+    Public ct_en As CultureInfo = New System.Globalization.CultureInfo("en-US")
+    Public ct_th As CultureInfo = New System.Globalization.CultureInfo("th-TH")
 
     Public Sub condb()
         Dim str As String
@@ -30,7 +30,7 @@ Module Mconnect
     ''เช็คเมนู
     Public chk_tsmsaleD As String
 
-    Public dtn_EN As String = DateTime.Parse(DateTime.Now.ToString(), ct_th).ToString("yyyy-MM-dd", ct_en)
+    Public dtn_EN As String = DateTime.Parse(DateTime.Now.ToString(), ct_th).ToString("yyyy-MM-dd HH:mm:ss", ct_en)
 
 
 

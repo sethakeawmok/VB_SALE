@@ -1,0 +1,116 @@
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.exe
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.pdb
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.xml
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_main.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_login.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_sale.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Resources.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbproj.GenerateResource.Cache
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.exe
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.xml
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.pdb
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_product.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_protype.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_prounit.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saleselect.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_member.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff_position.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_report.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product-Sale_System.exe
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product-Sale_System.xml
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product-Sale_System.pdb
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\bin\Debug\Product-Sale_System.exe
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\bin\Debug\Product-Sale_System.pdb
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\bin\Debug\Product-Sale_System.xml
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_main.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_login.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_member.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_product.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_protype.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_prounit.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_report.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_sale.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saleselect.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff_position.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Resources.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbproj.GenerateResource.Cache
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbprojResolveAssemblyReference.cache
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saledetail.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbprojResolveAssemblyReference.cache
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saledetail.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_licenses.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System - Copy\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saletotal.resources
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.exe
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.xml
+D:\Works\VB.Net\VB_NET 3\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.pdb
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.exe
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.xml
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.pdb
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\bin\Debug\Product-Sale_System.exe
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\bin\Debug\Product-Sale_System.pdb
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\bin\Debug\Product-Sale_System.xml
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbprojResolveAssemblyReference.cache
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_licenses.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_main.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_login.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_member.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_product.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_protype.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_prounit.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_report.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_sale.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saledetail.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saleselect.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saletotal.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff_position.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Resources.resources
+C:\Users\DS05\Desktop\VB_IS41_240359\Projects\Product-Sale_System-24022559\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbproj.GenerateResource.Cache
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.exe
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.xml
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.pdb
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbprojResolveAssemblyReference.cache
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_licenses.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_main.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_login.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_member.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_product.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_protype.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_prounit.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_report.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_sale.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saledetail.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saleselect.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saletotal.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff_position.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Resources.resources
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbproj.GenerateResource.Cache
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.exe
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.pdb
+C:\Users\DS05\Desktop\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.xml
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.exe
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.xml
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.pdb
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.exe
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.pdb
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\bin\Debug\Product-Sale_System.xml
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbprojResolveAssemblyReference.cache
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_licenses.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_main.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_login.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_member.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_product.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_protype.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.frm_prounit.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_report.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_sale.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saledetail.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saleselect.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_saletotal.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff_position.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Resources.resources
+C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbproj.GenerateResource.Cache

@@ -1,8 +1,9 @@
 ﻿Imports System.Data
 Imports System.Data.OleDb
 Imports System.IO
-Public Class frm_IMP_EXP
 
+Public Class frm_IMP_EXP
+    
     Private Sub frm_IMP_EXP_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Call condb()
         Call showdata()
@@ -63,18 +64,31 @@ Public Class frm_IMP_EXP
         conn.Close()
 
 
+
+        Dim dtn_EN As String = DateTime.Parse(DateTime.Now.ToString(), ct_th).ToString("yyyy-MM-dd HH:mm:ss", ct_en)
+
+
         conn.Open()
-        strSQl = "SELECT DATE_CREATE FROM T_products ORDER BY DATE_CREATE DESC"
+        strSQl = "SELECT * FROM T_sale ORDER BY sale_date DESC"
         mycmd = New OleDbCommand(strSQl, conn)
         myreader = mycmd.ExecuteReader
         myreader.Read()
-
-        dtp_Start.MaxDate = "4/6/2560 20:39:51"
-        dtp_Start.MaxDate = myreader("DATE_CREATE") + " 23:59:59"
-        dtp_End.MaxDate = myreader("DATE_CREATE")
+        dtp_FIND_START.MaxDate = myreader("sale_date")
+        dtp_End.MaxDate = myreader("sale_date")
         conn.Close()
-       
+
+
+        conn.Open()
+        strSQl = "SELECT * FROM T_products ORDER BY DATE_CREATE DESC"
+        mycmd = New OleDbCommand(strSQl, conn)
+        myreader = mycmd.ExecuteReader
+        myreader.Read()
+        dtp_FIND_START.MaxDate = "7/6/2017 8:19:33"
+        dtp_End.MaxDate = "4/6/2560 20:39:51"
+        conn.Close()
     End Sub
+    
+
     Sub convers_dt_TH(dt As String)
 
         '        Dim number As Integer = 8
