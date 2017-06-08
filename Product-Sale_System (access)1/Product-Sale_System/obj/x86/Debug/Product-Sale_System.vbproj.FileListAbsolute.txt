@@ -114,3 +114,6 @@ C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Pro
 C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Frm_staff.resources
 C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product_Sale_System.Resources.resources
 C:\Users\Nueng\Desktop\Product-Sale_System\Product-Sale_System\obj\x86\Debug\Product-Sale_System.vbproj.GenerateResource.Cache
+C:\Users\DS05\Desktop\VB_SALE\Product-Sale_System (access)1\Product-Sale_System\obj\x86\Debug\Product-Sale_System.exe
+C:\Users\DS05\Desktop\VB_SALE\Product-Sale_System (access)1\Product-Sale_System\obj\x86\Debug\Product-Sale_System.xml
+C:\Users\DS05\Desktop\VB_SALE\Product-Sale_System (access)1\Product-Sale_System\obj\x86\Debug\Product-Sale_System.pdb
